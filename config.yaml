@@ -1,0 +1,7 @@
+##config.yaml
+
+#name
+name: model.bin/pytorch_model.bin
+
+#model
+model: snunlp/KR-ELECTRA-discriminator
